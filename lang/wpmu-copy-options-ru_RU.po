@@ -1,0 +1,184 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tuvasadik cloner\n"
+"POT-Creation-Date: 2013-04-22 10:50+0800\n"
+"PO-Revision-Date: 2013-04-22 10:51+0800\n"
+"Last-Translator: Dmitry Fatakov <dfatakov@mail.ru>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../wpmu-copy-options.php:29 ../wpmu-copy-options.php:64
+msgid "Copy Blog Option In WPMU"
+msgstr "Копировать опции блога на остальные блоги в WPMU"
+
+#: ../wpmu-copy-options.php:58
+msgid "You do not have permissions to do that..."
+msgstr "Нет прав."
+
+#: ../wpmu-copy-options.php:67
+msgid "Source Blog"
+msgstr "Блог - Источник"
+
+#: ../wpmu-copy-options.php:88
+msgid "Show options"
+msgstr "Показать Опции"
+
+#: ../wpmu-copy-options.php:155
+msgid "Copy options log"
+msgstr "Результат копирования опций"
+
+#: ../views/show_optionlist.php:2
+msgid "Show Options"
+msgstr "Показать Опции"
+
+#: ../views/show_optionlist.php:9 ../views/show_submitlist.php:11
+msgid "Option Name"
+msgstr "Наименование Опции"
+
+#: ../views/show_optionlist.php:10 ../views/show_submitlist.php:12
+msgid "Option Value"
+msgstr "Значение Опции"
+
+#: ../views/show_optionlist.php:30
+msgid "Edit"
+msgstr "Редактировать"
+
+#: ../views/show_optionlist.php:31
+msgid "Save"
+msgstr "Сохранить"
+
+#: ../views/show_optionlist.php:52
+msgid "Confirm clone of edited items"
+msgstr "Подтвердить копирование отмеченных элементов"
+
+#: ../views/show_submitlist.php:5
+msgid "Selected Options"
+msgstr "Выюранные Опции"
+
+#: ../views/show_submitlist.php:54
+msgid "List of blogs to apply selected items"
+msgstr "Список блогов, для которых скопировать отмеченные элементы"
+
+#: ../views/show_submitlist.php:59
+msgid "Blog domain"
+msgstr "Домен"
+
+#: ../views/show_submitlist.php:60
+msgid "Blog name"
+msgstr "Название сайта"
+
+#: ../views/show_submitlist.php:96
+msgid "Clone checked items"
+msgstr "Клонировать отмеченные"
+
+#~ msgid "Name Of DOU"
+#~ msgstr "Наименование ДОУ"
+
+#~ msgid "Adres"
+#~ msgstr "Адрес"
+
+#~ msgid "E-mail"
+#~ msgstr "Е-майл"
+
+#~ msgid "Registered"
+#~ msgstr "Дата создания"
+
+#~ msgid "Tuvasadik Cloner"
+#~ msgstr "Клонер Tuvasadik"
+
+#~ msgid "Status"
+#~ msgstr "Статус"
+
+#~ msgid "New Site SubDomain"
+#~ msgstr "Субдомен нового сайта"
+
+#~ msgid "Fill other fields"
+#~ msgstr "Заполнить поля"
+
+#~ msgid "New Site Type"
+#~ msgstr "Тип ДОУ нового сайта"
+
+#~ msgid "MBDOU"
+#~ msgstr "МБДОУ"
+
+#~ msgid "MADOU"
+#~ msgstr "МАДОУ"
+
+#~ msgid "None spec type"
+#~ msgstr " "
+
+#~ msgid "Combined type"
+#~ msgstr "комбинированного вида"
+
+#~ msgid "Compensating type"
+#~ msgstr "компенсирующего вида"
+
+#~ msgid "Example Of DouName"
+#~ msgstr "например: Детский сад № 40 города Кызыла Республики Тыва"
+
+#~ msgid "Second E-mail"
+#~ msgstr "Текущий E-mail"
+
+#~ msgid "Overwrite existing site"
+#~ msgstr "Перезаписывать существующий"
+
+#~ msgid "Administrator"
+#~ msgstr "Администратор"
+
+#~ msgid "Name"
+#~ msgstr "Логин"
+
+#~ msgid "Password"
+#~ msgstr "Пароль"
+
+#~ msgid "Clone"
+#~ msgstr "Копировать"
+
+#~ msgid "All fields must be filled."
+#~ msgstr "Все поля должны быть заполнены"
+
+#~ msgid "MDOU"
+#~ msgstr "МДОУ"
+
+#~ msgid "Site "
+#~ msgstr "Сайт"
+
+#~ msgid "MBDOU_desc"
+#~ msgstr "Муниципального бюджетного дошкольного образовательного учреждения"
+
+#~ msgid "MADOU_desc"
+#~ msgstr "Муниципального автономного дошкольного образовательного учреждения"
+
+#~ msgid "MDOU_desc"
+#~ msgstr "Муниципального дошкольного образовательного учреждения"
+
+#~ msgid "TuvaSadik RU"
+#~ msgstr "Tuvasadik RU"
+
+#~ msgid "Your Password"
+#~ msgstr "Ваш Пароль"
+
+#~ msgid "Name Of Administrator"
+#~ msgstr "Логин администратора"
+
+#~ msgid "Password Of Administrator"
+#~ msgstr "Пароль администратора"
+
+#~ msgid "Email Of Administrator"
+#~ msgstr "Е-майл администратора"
+
+#~ msgid "Name Of Editor"
+#~ msgstr "Логин редактора"
+
+#~ msgid "Email Of Editor"
+#~ msgstr "е-майл редактора"
+
+#~ msgid "Name Of Dou (Example)"
+#~ msgstr "Наименование ДОУ"
